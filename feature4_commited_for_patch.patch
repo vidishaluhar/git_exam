@@ -1,0 +1,16 @@
+Index: lib/main.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/main.dart b/lib/main.dart
+--- a/lib/main.dart	(revision c0d2708bed418879c13c5a851aa3f9264358b2a7)
++++ b/lib/main.dart	(revision dc6c42b1737c26cbfbe4940abd9b45e908ea9180)
+@@ -1,5 +1,7 @@
+ import 'package:flutter/material.dart';
+ 
++//patch example
++
+ void main() {
+   runApp(const MyApp());
+ }
